@@ -72,14 +72,6 @@ grid = []
 
 ---
 
-## Support
-
-Reach out to me at one of the following places!
-
-- Website at <a href="http://www.grantf.co.za" target="_blank">Grantf28 </a>
-
----
-
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
